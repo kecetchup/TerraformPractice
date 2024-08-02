@@ -10,3 +10,6 @@
 
 # 로그 파일
 crash.log
+
+# Terraform 계획 파일
+tfplan
